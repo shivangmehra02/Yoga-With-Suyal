@@ -41,13 +41,3 @@ This matches manual booking mode (no payment gateway/backend).
 - Replace canonical URL in `index.html`, `robots.txt`, and `sitemap.xml`
 - Optionally replace Google Fonts and color variables in `assets/css/styles.css`
 
-## Deploy (Netlify)
-
-1. Create a new site from this folder
-2. Build command: _(leave blank for static site)_
-3. Publish directory: `.`
-4. Deploy
-
-After deployment:
-- Set your final custom domain
-- Update canonical/sitemap/robots URLs to the final domain
